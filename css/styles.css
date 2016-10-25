@@ -120,14 +120,7 @@ header li{
  	text-decoration:underline;
  	color:#252525;
  }
- #nav_right{
- 	margin-top:0;
- 	float: left;
- }
- #nav_right li:first-child a{
- 	background-color:grey;
- 	color: white;
- }
+
 
 /*---------------------------------------------
 	Section
